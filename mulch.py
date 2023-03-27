@@ -1,6 +1,5 @@
 """
 mulch.py
-Name: Khue (Jennifer) Ha
 """
 
 import math
